@@ -1,0 +1,4 @@
+﻿  main.c
+E:\C++\Game\Game\main.c(438,33): warning C4244: “函数”: 从“double”转换到“DWORD”，可能丢失数据
+E:\C++\Game\Game\main.c(457,12): warning C4013: “time”未定义；假设外部返回 int
+  Game.vcxproj -> E:\C++\Game\x64\Debug\Game.exe
